@@ -1,4 +1,4 @@
-# _Workshop: Reference Management__
+# _Workshop: Reference Management_
 
 File links for the workshop on Reference Management.
 
