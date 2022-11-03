@@ -10,7 +10,7 @@ Things you will find below:
 
 ### The Recording:
 
-Here is a link to the recording (slides and voiceover) for the session. It is accessible to watch online via my OneDrive to those at Lancaster University _only_. Please note, the recording will not be available indefinitely, but will be available for at least 3 months (from November 2022).
+Here is a link to the recording (slides and voiceover) for the session. It is accessible to watch online via my OneDrive to those at Lancaster University _only_. Please note, the recording will not be available indefinitely, but will be available for at least 3 months (from November 2022). Also, please note that the fire alarm did go off halfway through - it only lasts a few seconds, but warning for the noise.
 [****RECORDING LINK HERE****](https://livelancsac-my.sharepoint.com/:v:/g/personal/rober128_lancaster_ac_uk/EZNad4BFkrFKuRfNNuhce0IBl50QmvmiwmfI0I9sZAWzQg?e=jZHTZP)
 
 ### Links to Resources:
