@@ -31,7 +31,7 @@ A: Only the first 20 mins or so. In other words, the introductory slides were re
 
 **Q: Will there be another workshop?**
 
-A: At the moment, only the November session has been scheduled. If you would like to see another one/something similar send me an email (e.roberts9ATlancaster...) and I will raise this to the department if enough interest is raised.
+A: At the moment, only the November session has been scheduled. If you would like to see another one/something similar please fill in the following [form](https://forms.gle/iZRBx96gN8JqnbFAA) and I will raise this to the department if enough interest is raised.
  
 **Q: I couldn’t make the session, but want to find out more. Where can I find out more?**
 
@@ -39,7 +39,7 @@ A: On this page, you will find some useful links above that may be able to get y
  
 **Q: I can’t get Zotero downloaded on my device – what should I do?**
 
-A: Please have a look online and see if someone in the large Zotero community has faced the same issue and come up with a solution. If you are really stuck, send me an email and I will see if I can help troubleshoot the issue.
+A: Please have a look online and see if someone in the large Zotero community has faced the same issue and come up with a solution. If you are absolutely stuck **and** have searched for the answer online and can't get it to work, send me an email and I will see if I can help troubleshoot the issue. Please note, I may not respond immediately due to teaching and research commitments of my own.
 
 ### Installation Guidance:
 
