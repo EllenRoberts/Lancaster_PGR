@@ -35,7 +35,8 @@ You can do this *if* you have a premium/institutional subscription (follow steps
 
 ### Can I have access to the slides/recording?
 **Yes** 
-I will make the slides, example documents (Word and LaTeX) accessible via this GitHub page. Recording will be circulated in due time.
+
+The [slides](LaTeX_2025_workshop-3.pdf), example documents (both [Word](example_document_cats.docx) -  and [LaTeX](Cat_article.tex)) are accessible via this GitHub page. If using the LaTeX example document, you should be able to copy and paste the contents of the file into your overleaf - *but you will need the relevant reference (bib) [file](bibliography.bib), tuxedo cat [image](tuxedo.jpeg) and tabby cat [image](tabby.jpeg) files in your workspace*). Recording will be circulated in due time.
 
 ### Can I get help with an issue?
 I will try and respond to any issues, but won't be able to respond to all. I may look to make a 'help!' page in the future, if there is demand.
